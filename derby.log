@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Mar 22 11:48:18 IRKT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015a-f421-283d-000006e8e508 
+on database directory D:\temp\BIRTSampleDB_1490154497948_4318d195\BirtSample with class loader org.eclipse.osgi.internal.loader.EquinoxClassLoader@429326e4[org.apache.derby:10.11.1.1_v201605202053(id=55)] 
+Loaded from file:/D:/eclipse/plugins/org.apache.derby_10.11.1.1_v201605202053.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b15
+user.dir=D:\BIRT_WP\cpfr2
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 28 17:32:03 IRKT 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Mar 28 17:32:03 IRKT 2017:
+Shutting down instance a816c00e-015a-f421-283d-000006e8e508 on database directory D:\temp\BIRTSampleDB_1490154497948_4318d195\BirtSample with class loader org.eclipse.osgi.internal.loader.EquinoxClassLoader@429326e4[org.apache.derby:10.11.1.1_v201605202053(id=55)] 
+----------------------------------------------------------------
