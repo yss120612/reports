@@ -1363,7 +1363,7 @@ order by posetit.rajon,posetit.sub_rajon]]></xml-property>
         <text-data id="1542">
             <property name="fontSize">16pt</property>
             <property name="textAlign">center</property>
-            <expression name="valueExpr">"Статистика приема с "+Formatter.format(params["DateS"].value,"dd.MM.yyyy")+" по "+Formatter.format(params["DateF"].value,"dd.MM.yyyy") +" в "+params["Raion"].displayText +" по специалистам в разрезе вопросов."</expression>
+            <expression name="valueExpr">"Статистикаприема с "+Formatter.format(params["DateS"].value,"dd.MM.yyyy")+" по "+Formatter.format(params["DateF"].value,"dd.MM.yyyy") +" в "+params["Raion"].displayText +" по специалистам в разрезе вопросов."</expression>
             <property name="contentType">html</property>
         </text-data>
         <extended-item extensionName="Crosstab" extensionVersion="3.7.0" id="1730">
