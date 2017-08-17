@@ -338,7 +338,7 @@ order by hour(time_nach_p)]]></xml-property>
                     <property name="dataType">integer</property>
                 </structure>
             </list-property>
-            <expression name="valueExpr" type="javascript">"Почасовое распределение посетителей с "+Formatter.format(params["DateS"].value,"dd.MM.yyyy")+" по "+Formatter.format(params["DateF"].value,"dd.MM.yyyy") +" в " +params["Raion"].displayText +" (всего "+vars["allTotal"]+" посетителей)"</expression>
+            <expression name="valueExpr">"Почасовое распределение посетителей с "+Formatter.format(params["DateS"].value,"dd.MM.yyyy")+" по "+Formatter.format(params["DateF"].value,"dd.MM.yyyy") +" в " +params["Raion"].displayText +" (всего "+vars["allTotal"]+" посетителей)."</expression>
             <property name="contentType">html</property>
             <property name="order">2</property>
         </text-data>
